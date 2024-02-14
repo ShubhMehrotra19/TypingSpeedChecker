@@ -1,30 +1,49 @@
-# React + TypeScript + Vite
+# 🎋 Intro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Typing Speed Checker, a TypeScript project created with guidance from a YouTube video. This educational endeavor provided a valuable learning experience in the implementation of TypeScript.
 
-Currently, two official plugins are available:
+# 📦 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- `Language:` TypeScript
+- `Styling:` Tailwind CSS
+- `Dummy Text Generation:` FakerJs
+- `Animation Effects:` Framer-Motion
+- `Icon Components:` react-icons
+- `Classnames Handling:` react-classnames
 
-## Expanding the ESLint configuration
+# 👩🏽‍🍳 Features
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- `Typing Speed Checker:` Evaluate your typing speed with a user-friendly interface.
+- `Dummy Text Generation:` Utilize FakerJs to create random text paragraphs for testing.
+- `Animation Effects:` Enhance the user experience with Framer-Motion effects.
+- `Icon Integration:` Access a variety of icons seamlessly with react-icons.
+- `Classnames Handling:` Efficiently manage classnames with react-classnames.
 
-- Configure the top-level `parserOptions` property like this:
+# 💭 Process
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+The project was developed with `inspiration from a YouTube video`, focusing on the practical implementation of `TypeScript`. Key technologies included Tailwind CSS for styling, `FakerJs` for generating `dummy text`, `Framer-Motion` for `animation effects`, and the use of `react-icons` and `react-classnames` to enhance `functionality`.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# 📚 Learnings
+
+- Acquired proficiency in using TypeScript for type-safe JavaScript development.
+- Gained hands-on experience with Tailwind CSS for styling efficiency.
+- Explored the capabilities of Framer-Motion for creating dynamic animation effects.
+
+# ✨ Improvement
+
+- Consider expanding the project with additional features or challenges.
+- Explore alternative libraries or techniques for animation effects.
+
+# 🚦 Running the Project
+
+1. Clone the repository: `git clone https://github.com/your-username/typing-speed-checker.git`
+2. Install dependencies: `cd typing-speed-checker && npm install`
+3. Start the project: `npm start`
+4. Open the application in your browser at `http://localhost:3000`.
+
+Feel free to share your thoughts on the project and its functionality. Contributions and suggestions are always welcome. Happy typing!
+
+
+# 📽️ Project Functioning:
+
+https://github.com/ShubhMehrotra19/TypingSpeedChecker/assets/110672923/8a0d218d-e10a-4db3-b75e-4e4d9f9e60e3
